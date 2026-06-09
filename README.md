@@ -1,0 +1,1 @@
+# Proje_14_PalindromKontrolu
